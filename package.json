@@ -1,0 +1,22 @@
+{
+  "name": "doshared",
+  "version": "1.0.0",
+  "description": "Shared code for Do and DoServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple0x47/DoShared.git"
+  },
+  "author": "Gabriel Amihalachioaie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simple0x47/DoShared/issues"
+  },
+  "homepage": "https://github.com/simple0x47/DoShared#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
